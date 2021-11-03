@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S542048\\Desktop\\BearcatE\\BearCat-E\\BearCat-E.csproj": {}
+    "C:\\Users\\s541900\\Documents\\GitHub\\BearcatE\\BearCat-E\\BearCat-E.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S542048\\Desktop\\BearcatE\\BearCat-E\\BearCat-E.csproj": {
+    "C:\\Users\\s541900\\Documents\\GitHub\\BearcatE\\BearCat-E\\BearCat-E.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S542048\\Desktop\\BearcatE\\BearCat-E\\BearCat-E.csproj",
+        "projectUniqueName": "C:\\Users\\s541900\\Documents\\GitHub\\BearcatE\\BearCat-E\\BearCat-E.csproj",
         "projectName": "BearCat-E",
-        "projectPath": "C:\\Users\\S542048\\Desktop\\BearcatE\\BearCat-E\\BearCat-E.csproj",
-        "packagesPath": "C:\\Users\\S542048\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S542048\\Desktop\\BearcatE\\BearCat-E\\obj\\",
+        "projectPath": "C:\\Users\\s541900\\Documents\\GitHub\\BearcatE\\BearCat-E\\BearCat-E.csproj",
+        "packagesPath": "C:\\Users\\s541900\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s541900\\Documents\\GitHub\\BearcatE\\BearCat-E\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\S542048\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s541900\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
