@@ -7,3 +7,10 @@ Bearcat Events is a progresive web application which consists of a list of event
   <li>HTML</li>
   <li>C#</li>
 </ul>
+
+### Frameworks
+<ul>
+  <li>CSS</li>
+  <li>BootStrap</li>
+  <li>.NET</li>
+</ul>
