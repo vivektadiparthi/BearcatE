@@ -19,3 +19,7 @@ Bearcat Events is a progresive web application which consists of a list of event
 <ul>
   <li>Heroku</li>
 </ul>
+
+#### Link to the [RFP](https://github.com/pramod096/Bearcat-Events/blob/main/RFP.md).        
+#### Link to the [proposal](https://github.com/vivektadiparthi/Proposal5A-BearcatE).        
+#### Link to the [App](https://bearcatevent.herokuapp.com/).   
