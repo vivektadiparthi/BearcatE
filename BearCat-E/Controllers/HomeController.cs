@@ -29,13 +29,20 @@ namespace BearCat_E.Controllers
 
             connection.Open();
             
-            using var command = new MySqlCommand("SELECT eventname FROM bearcatevent;", connection);
+            using var command = new MySqlCommand("SELECT eventname, eventvenue, eventdate FROM bearcatevent;", connection);
+            //using var cmd = new MySqlCommand("SELECT eventvenue FROM bearcatevent;", connection);
             using var reader =  command.ExecuteReader();
+            
+
             while (reader.Read())
             {
                 string value = reader.GetValue(0).ToString();
+                string value2 = reader.GetValue(1).ToString();
+                string value3 = reader.GetValue(2).ToString();
                 e.eventname = value;
-                listEvent.Add(e);
+                e.eventplace = value2;
+                e.eventdate = value3;
+                //listEvent.Add(e);
 
             }
 

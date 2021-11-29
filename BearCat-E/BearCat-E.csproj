@@ -5,4 +5,8 @@
     <RootNamespace>BearCat_E</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MySqlConnector" Version="2.0.0" />
+  </ItemGroup>
+
 </Project>
