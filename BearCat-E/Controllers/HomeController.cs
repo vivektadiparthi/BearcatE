@@ -29,7 +29,7 @@ namespace BearCat_E.Controllers
 
             connection.Open();
             
-            using var command = new MySqlCommand("SELECT eventname, eventvenue, eventdate FROM bearcatevent;", connection);
+            using var command = new MySqlCommand("SELECT eventname, eventvenue, eventdate FROM bearcatevent WHERE event_id = 5;", connection);
             //using var cmd = new MySqlCommand("SELECT eventvenue FROM bearcatevent;", connection);
             using var reader =  command.ExecuteReader();
             
